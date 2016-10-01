@@ -1,0 +1,42 @@
+Palabra reservada¬SELECT¬10
+Palabra reservada¬FROM¬11
+Palabra reservada¬WHERE¬12
+Palabra reservada¬IN¬13
+Palabra reservada¬AND¬14
+Palabra reservada¬OR¬15
+Palabra reservada¬CREATE¬16
+Palabra reservada¬TABLE¬17
+Palabra reservada¬CHAR¬18
+Palabra reservada¬NUMERIC¬19
+Palabra reservada¬NOT¬20
+Palabra reservada¬NULL¬21
+Palabra reservada¬CONSTRAINT¬22
+Palabra reservada¬KEY¬23
+Palabra reservada¬PRIMARY¬24
+Palabra reservada¬FOREIGN¬25
+Palabra reservada¬REFERENCES¬26
+Palabra reservada¬INSERT¬27
+Palabra reservada¬INTO¬28
+Palabra reservada¬VALUES¬29
+Palabra reservada¬DISTINCT¬30
+Palabra reservada¬CHECK¬31
+Palabra reservada¬DATE¬32
+Delimitador¬,¬50
+Delimitador¬.¬51
+Delimitador¬(¬52
+Delimitador¬)¬53
+Delimitador¬'¬54
+Delimitador¬;¬55
+Constante¬relacional¬60
+Constante¬numérica¬61
+Constante¬alfanumérica¬62
+Operador¬+¬70
+Operador¬-¬71
+Operador¬*¬72
+Operador¬/¬73
+Relacional¬>¬86
+Relacional¬<¬87
+Relacional¬=¬88
+Relacional¬>=¬89
+Relacional¬<=¬90
+Identificador¬ ¬100

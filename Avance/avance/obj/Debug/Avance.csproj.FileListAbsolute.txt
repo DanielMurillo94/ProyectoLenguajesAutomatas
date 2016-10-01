@@ -1,0 +1,99 @@
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Creación de documentos\Avance\bin\Debug\Avance.exe.config
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Creación de documentos\Avance\obj\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Creación de documentos\Avance\obj\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Creación de documentos\Avance\bin\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Creación de documentos\Avance\bin\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Creación de documentos\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Creación de documentos\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Creación de documentos\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\LENAUT2 Avance 1\Creación de documentos\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 2\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 2\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 2\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 2\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 2\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 2\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 2\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 2\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 2\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 3\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 3\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 3\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 3\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 3\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 3\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 3\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 3\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U1\LENAUT2 Avance 3\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4 - copia\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4 - copia\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4 - copia\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4 - copia\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4 - copia\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4 - copia\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4 - copia\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4 - copia\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 4 - copia\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\LENAUT2\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\Daniel\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\Daniel\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\Daniel\Desktop\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\Daniel\Desktop\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\Daniel\Desktop\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\Daniel\Desktop\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\Daniel\Desktop\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\Daniel\Desktop\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\Daniel\Desktop\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\CarlosAntonio\Dropbox\LENAUT2\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\CarlosAntonio\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\CarlosAntonio\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Dropbox\LENAUT2\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\CarlosAntonio\Dropbox\LENAUT2\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAntonio\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\CarlosAntonio\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\CarlosAntonio\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\Daniel\Dropbox\LENAUT2\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\Daniel\Dropbox\LENAUT2\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\Daniel\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\Daniel\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\Daniel\Dropbox\LENAUT2\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 5 y 6\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 5 y 6\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 5 y 6\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 5 y 6\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 5 y 6\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 5 y 6\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 5 y 6\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 5 y 6\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U2\LENAUT2 Avance 5 y 6\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U3\LENAUT2 Optimizacion\Avance\Avance\bin\Debug\Avance.exe.config
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U3\LENAUT2 Optimizacion\Avance\Avance\obj\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U3\LENAUT2 Optimizacion\Avance\Avance\obj\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U3\LENAUT2 Optimizacion\Avance\Avance\bin\Debug\Avance.exe
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U3\LENAUT2 Optimizacion\Avance\Avance\bin\Debug\Avance.pdb
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U3\LENAUT2 Optimizacion\Avance\Avance\obj\Debug\Avance.csprojResolveAssemblyReference.cache
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U3\LENAUT2 Optimizacion\Avance\Avance\obj\Debug\Avance.Form1.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U3\LENAUT2 Optimizacion\Avance\Avance\obj\Debug\Avance.Properties.Resources.resources
+C:\Users\CarlosAntonio\Documents\Disco_local_D\Escuela\7mo semestre\Lenguajes y autómatas II\U3\LENAUT2 Optimizacion\Avance\Avance\obj\Debug\Avance.csproj.GenerateResource.Cache
